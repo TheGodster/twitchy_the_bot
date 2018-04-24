@@ -1,4 +1,4 @@
-username = "username"
-password = "password"
-subreddit = "subreddit"
+username = "JustFriendsBot"
+password = "JustFriendsBot-2000"
+subreddit = "testsub1godster"
 client_id = "client_id"
